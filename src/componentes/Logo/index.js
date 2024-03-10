@@ -16,7 +16,7 @@ function Logo () {
                 src={logo}
                 alt='Logo'                                
             />
-            <p><strong>Dev</strong>Livros</p>
+            <p><strong>Dev</strong>Books</p>
         </LogoContainer>
     )
 }
